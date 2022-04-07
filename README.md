@@ -1,2 +1,2 @@
 ## Welcome to GitHub Pages
-[Llink to Map: Final Project](http://UBC-GEOS472-Spring2022.github.io/FProject-G6/index.html)
+[Llink to Map: Final Project](http://UBC-GEOS472-Spring2022.github.io/FProject-G6/airports.html)
